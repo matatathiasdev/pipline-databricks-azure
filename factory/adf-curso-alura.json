@@ -1,0 +1,9 @@
+{
+	"name": "adf-curso-alura",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ff8f244f-cc64-4925-9399-8d02b2d17281",
+		"tenantId": "b13864f8-ce8b-4e82-bdbb-dc130470ad8a"
+	}
+}
